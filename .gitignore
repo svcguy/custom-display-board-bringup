@@ -1,0 +1,14 @@
+/Debug/Core/*
+/Debug/Device/*
+/Debug/Drivers/*
+/Debug/Middlewares/*
+/Debug/*.proxy_cache
+/Debug/makefile
+/Debug/*.mk
+/Release/Core/*
+/Release/Device/*
+/Release/Drivers/*
+/Release/Middlewares/*
+/Release/*.proxy_cache
+/Release/makefile
+/Release/*.mk
